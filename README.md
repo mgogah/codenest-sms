@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/codenest-sms.git
+   git clone https://github.com/mgogah/codenest-sms.git
    cd codenest-sms
 
 2. Install dependencies:
